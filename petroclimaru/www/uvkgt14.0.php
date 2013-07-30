@@ -5,7 +5,7 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>сбй фр-14,0</title>
+  <title>сб фр-л-3,0.01</title>
 <script language="JavaScript" src="Base/JavaScripts/script.js">
 </script>
   <meta http-equiv="Content-Type"
@@ -41,8 +41,9 @@ $site = 0;
 | <a href="contacts.php">ЙНМРЮЙРШ</a></div>
 </div>
 </div>
-<div class="content">
-<br>
+<div class="content"><div style="text-align: center;"><a href="NewImages/Products/imguvkgt14high.jpg" target="_blank"><img style="cursor: hand; border: 0px solid ; width: 200px; height: 132px;"
+ alt="сб фр√л-3,0.01" src="NewImages/Products/imguvkgt14low.jpg"></a></div>
+<br><br>
 <p align="center"><strong>сярюмнбйю бемрхкъжхнммн-йкхлюрхвеяйюъ сбй фр-14,0</strong></p>
 <div class="normtext">
   <!-------------------------------------------------------------------->
