@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-  <title>ЗАО "Петроклима":</title>
+  <title>Р—РђРћ "РџРµС‚СЂРѕРєР»РёРјР°":</title>
   <script language="JavaScript">
 <!--
 function Open() {
@@ -32,10 +32,10 @@ function Test() { document.write("Hello World!");}
 <table border="0" cellpadding="0" cellspacing="0" width="840">
   <tbody>
     <tr>
-      <td align="right"><b>Закрытое
-акционерное<br>
-общество "Петроклима"<br>
-Тел. +7 (812)331-59-18</b></td>
+      <td align="right"><b>Р—Р°РєСЂС‹С‚РѕРµ
+Р°РєС†РёРѕРЅРµСЂРЅРѕРµ<br>
+РѕР±С‰РµСЃС‚РІРѕ "РџРµС‚СЂРѕРєР»РёРјР°"<br>
+РўРµР». +7 (812)331-59-18</b></td>
       <td width="140"><img src="/images/logo.jpg" border="0"
  height="165" width="140"></td>
     </tr>
@@ -43,11 +43,11 @@ function Test() { document.write("Hello World!");}
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 <div class="content">
@@ -55,15 +55,15 @@ function Test() { document.write("Hello World!");}
 <form action="ActionDel.php", mathod="post" target="response">
 <table border="0" cellpadding="0" cellspacing="20" width="840px">
 <tr>
-	<td width="230">Введите e-mail:</td>
+	<td width="230">Р’РІРµРґРёС‚Рµ e-mail:</td>
     <td width="400"><input name="email" id="email" type="text" width="507px"></td>
 </tr>
 <tr>
-	<td><input type="submit" value="Отправить" onFocus="Test()";></td>
+	<td><input type="submit" value="РћС‚РїСЂР°РІРёС‚СЊ" onFocus="Test()";></td>
 </tr>
 </table>
 </form>
-Ответ сервера:<br>
+РћС‚РІРµС‚ СЃРµСЂРІРµСЂР°:<br>
 <iframe id="response" name="response" width="780" frameborder="1" border="2" scrolling="auto">
 </iframe>
 </div>

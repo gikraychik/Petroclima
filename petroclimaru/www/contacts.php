@@ -5,7 +5,7 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>Контакты</title>
+  <title>РљРѕРЅС‚Р°РєС‚С‹</title>
   <meta http-equiv="Content-Type"
  content="text/html; charset=windows-1251">
   <link
@@ -32,22 +32,22 @@ $site = 0;
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="/contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="/contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 <div class="content">
-<h1 style="text-align: center;" class="entry-title"><big>Контакты</big></h1>
+<h1 style="text-align: center;" class="entry-title"><big>РљРѕРЅС‚Р°РєС‚С‹</big></h1>
 <div class="normtext">
-Адрес:<br><br>
-196084, г. Санкт-Петербург, ул. Парковая, д. 6, лит. &quot;А&quot;<br>
-Телефон: (812) 331-59-18<br>
-Телефон, факс:&nbsp; (812) 331-59-45<br>
+РђРґСЂРµСЃ:<br><br>
+196084, Рі. РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі, СѓР». РџР°СЂРєРѕРІР°СЏ, Рґ. 6, Р»РёС‚. &quot;Рђ&quot;<br>
+РўРµР»РµС„РѕРЅ: (812) 331-59-18<br>
+РўРµР»РµС„РѕРЅ, С„Р°РєСЃ:&nbsp; (812) 331-59-45<br>
 <br>
-<span style="font-weight: bold;">Проектно-технический отдел: </span>to_klk@petroclima.ru<br>
+<span style="font-weight: bold;">РџСЂРѕРµРєС‚РЅРѕ-С‚РµС…РЅРёС‡РµСЃРєРёР№ РѕС‚РґРµР»: </span>to_klk@petroclima.ru<br>
 <br>
 <span style="font-weight: bold;">e-mail:</span> info@petroclima.ru<br>
 <script
@@ -67,7 +67,7 @@ size : new YMaps.Point(28,29),
 offset: new YMaps.Point(-8,-27)
 }
 });
-map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(30.337652,59.893511), "constructor#pmlbmPlacemark", "ЗАО \"Петроклима\""));
+map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(30.337652,59.893511), "constructor#pmlbmPlacemark", "Р—РђРћ \"РџРµС‚СЂРѕРєР»РёРјР°\""));
 function createObject (type, point, style, description) {
 var allowObjects = ["Placemark", "Polyline", "Polygon"],
 index = YMaps.jQuery.inArray( type, allowObjects),
@@ -97,7 +97,7 @@ size : new YMaps.Point(28,29),
 offset: new YMaps.Point(-8,-27)
 }
 });
-map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.999014,60.014239), "constructor#pmlbmPlacemark", "Улица Парковая, дом 6"));
+map.addOverlay(createObject("Placemark", new YMaps.GeoPoint(29.999014,60.014239), "constructor#pmlbmPlacemark", "РЈР»РёС†Р° РџР°СЂРєРѕРІР°СЏ, РґРѕРј 6"));
 function createObject (type, point, style, description) {
 var allowObjects = ["Placemark", "Polyline", "Polygon"],
 index = YMaps.jQuery.inArray( type, allowObjects),

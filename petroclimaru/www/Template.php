@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-  <title>ЗАО "Петроклима"</title>
+  <title>Р—РђРћ "РџРµС‚СЂРѕРєР»РёРјР°"</title>
 <script language="JavaScript" src="Base/JavaScripts/script.js">
 </script>
   <meta http-equiv="Content-Type"
@@ -23,10 +23,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="840">
   <tbody>
     <tr>
-      <td align="right"><b>Закрытое
-акционерное<br>
-общество "Петроклима"<br>
-Тел. +7 (812)331-59-18</b></td>
+      <td align="right"><b>Р—Р°РєСЂС‹С‚РѕРµ
+Р°РєС†РёРѕРЅРµСЂРЅРѕРµ<br>
+РѕР±С‰РµСЃС‚РІРѕ "РџРµС‚СЂРѕРєР»РёРјР°"<br>
+РўРµР». +7 (812)331-59-18</b></td>
       <td width="140"><a href="/"><img src="/images/logo.jpg" border="0"
  height="165" width="140"></a></td>
     </tr>
@@ -34,11 +34,11 @@
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 <div class="content" id="cnt">

@@ -5,7 +5,7 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>УК ЖТ-2,5</title>
+  <title>РЈРљ Р–Рў-2,5</title>
 <script language="JavaScript" src="Base/JavaScripts/script.js">
 </script>
   <meta http-equiv="Content-Type"
@@ -34,100 +34,100 @@ $site = 0;
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 <div class="content">
 <div style="text-align: center;"><a href="NewImages/tramhigh.jpg" target="_blank"><img style="cursor: hand; border: 0px solid ; width: 300px; height: 155px;"
- alt="УК ЖТ - 2,5" src="NewImages/tramlow.jpg"></a><br>
+ alt="РЈРљ Р–Рў - 2,5" src="NewImages/tramlow.jpg"></a><br>
 </div>
 <br>
 <div class="normtext">
-<p align="center"><strong>КОНДИЦИОНЕР УК ЖТ-2,5 ДЛЯ КАБИНЫ ТРАМВАЯ</strong></p><br>
+<p align="center"><strong>РљРћРќР”РР¦РРћРќР•Р  РЈРљ Р–Рў-2,5 Р”Р›РЇ РљРђР‘РРќР« РўР РђРњР’РђРЇ</strong></p><br>
 &nbsp;&nbsp;&nbsp;
-Кондиционер УК ЖТ - 2,5 предназначен для обеспечения комфортных параметров воздуха в кабине водителя трамвайного вагона. В части
-климатических
-факторов кондиционер соответствует исполнению У1 по ГОСТ 15150-69.<br>
+РљРѕРЅРґРёС†РёРѕРЅРµСЂ РЈРљ Р–Рў - 2,5 РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ РѕР±РµСЃРїРµС‡РµРЅРёСЏ РєРѕРјС„РѕСЂС‚РЅС‹С… РїР°СЂР°РјРµС‚СЂРѕРІ РІРѕР·РґСѓС…Р° РІ РєР°Р±РёРЅРµ РІРѕРґРёС‚РµР»СЏ С‚СЂР°РјРІР°Р№РЅРѕРіРѕ РІР°РіРѕРЅР°. Р’ С‡Р°СЃС‚Рё
+РєР»РёРјР°С‚РёС‡РµСЃРєРёС…
+С„Р°РєС‚РѕСЂРѕРІ РєРѕРЅРґРёС†РёРѕРЅРµСЂ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ РёСЃРїРѕР»РЅРµРЅРёСЋ РЈ1 РїРѕ Р“РћРЎРў 15150-69.<br>
 <br>
-&nbsp;&nbsp;&nbsp; Тхнические
-характеристики
-кондиционера, при соблюдении требуемых параметров
-электропитания
-на входе: 24 В по цепям постоянного тока, приведены в
-таблице.
+&nbsp;&nbsp;&nbsp; РўС…РЅРёС‡РµСЃРєРёРµ
+С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё
+РєРѕРЅРґРёС†РёРѕРЅРµСЂР°, РїСЂРё СЃРѕР±Р»СЋРґРµРЅРёРё С‚СЂРµР±СѓРµРјС‹С… РїР°СЂР°РјРµС‚СЂРѕРІ
+СЌР»РµРєС‚СЂРѕРїРёС‚Р°РЅРёСЏ
+РЅР° РІС…РѕРґРµ: 24 Р’ РїРѕ С†РµРїСЏРј РїРѕСЃС‚РѕСЏРЅРЅРѕРіРѕ С‚РѕРєР°, РїСЂРёРІРµРґРµРЅС‹ РІ
+С‚Р°Р±Р»РёС†Рµ.
 <br><br>
 
 <table border="1" cellspacing="0" cellpadding="0" width="780">
   <tr>
-    <td width="633" valign="top"><p align="center"><span style="font-size: 11pt;"><strong>Наименование    параметра</strong></span></p></td>
-    <td width="165" valign="top"><p align="center"><span style="font-size: 11pt;"><strong>Значение</strong></span></p></td>
+    <td width="633" valign="top"><p align="center"><span style="font-size: 11pt;"><strong>РќР°РёРјРµРЅРѕРІР°РЅРёРµ    РїР°СЂР°РјРµС‚СЂР°</strong></span></p></td>
+    <td width="165" valign="top"><p align="center"><span style="font-size: 11pt;"><strong>Р—РЅР°С‡РµРЅРёРµ</strong></span></p></td>
     </tr>
   <tr>
-    <td width="633" valign="top"><p><span style="font-size: 11pt;">1.  Холодопроизводительность, кВт</span></p></td>
-    <td width="165"><p align="center"><span style="font-size: 11pt;">2,5 ± 0,2 </span></p></td>
+    <td width="633" valign="top"><p><span style="font-size: 11pt;">1.В  РҐРѕР»РѕРґРѕРїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ, РєР’С‚</span></p></td>
+    <td width="165"><p align="center"><span style="font-size: 11pt;">2,5 В± 0,2 </span></p></td>
     </tr>
   <tr>
-    <td width="633" valign="top"><p><span style="font-size: 11pt;">2.  Теплопроизводительность электрокалориферов,    кВт</span></p></td>
-    <td width="165"><p align="center"><span style="font-size: 11pt;">1,0 ± 0,1</span></p></td>
+    <td width="633" valign="top"><p><span style="font-size: 11pt;">2.В  РўРµРїР»РѕРїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ СЌР»РµРєС‚СЂРѕРєР°Р»РѕСЂРёС„РµСЂРѕРІ,    РєР’С‚</span></p></td>
+    <td width="165"><p align="center"><span style="font-size: 11pt;">1,0 В± 0,1</span></p></td>
     </tr>
   <tr>
-    <td width="633" valign="top"><p><span style="font-size: 11pt;">3.  Общее количество воздуха, подаваемого в    кабину, м3/ч:<br>
-      - приточного<br>
-      - наружного</span></p></td>
-    <td width="165"><p align="center"><span style="font-size: 11pt;">500    ± 50<br>
-      100 ± 10</span></p></td>
+    <td width="633" valign="top"><p><span style="font-size: 11pt;">3.В  РћР±С‰РµРµ РєРѕР»РёС‡РµСЃС‚РІРѕ РІРѕР·РґСѓС…Р°, РїРѕРґР°РІР°РµРјРѕРіРѕ РІ    РєР°Р±РёРЅСѓ, Рј3/С‡:<br>
+      - РїСЂРёС‚РѕС‡РЅРѕРіРѕ<br>
+      - РЅР°СЂСѓР¶РЅРѕРіРѕ</span></p></td>
+    <td width="165"><p align="center"><span style="font-size: 11pt;">500    В± 50<br>
+      100 В± 10</span></p></td>
     </tr>
   <tr>
-    <td width="633" valign="top"><p><span style="font-size: 11pt;">4.  Максимальная потребляемая мощность, кВт, не    более, при работе в режиме:<br>
-      -  «Вентиляция»                                                      <br>
-      -  «Охлаждение»<br>
-      -  «Нагрев (электрокалориферы)»</span></p></td>
+    <td width="633" valign="top"><p><span style="font-size: 11pt;">4.В  РњР°РєСЃРёРјР°Р»СЊРЅР°СЏ РїРѕС‚СЂРµР±Р»СЏРµРјР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚, РЅРµ    Р±РѕР»РµРµ, РїСЂРё СЂР°Р±РѕС‚Рµ РІ СЂРµР¶РёРјРµ:<br>
+      -В  В«Р’РµРЅС‚РёР»СЏС†РёСЏВ»В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В  <br>
+      -В  В«РћС…Р»Р°Р¶РґРµРЅРёРµВ»<br>
+      -В  В«РќР°РіСЂРµРІ (СЌР»РµРєС‚СЂРѕРєР°Р»РѕСЂРёС„РµСЂС‹)В»</span></p></td>
     <td width="165"><p align="center">&nbsp;</p>
       <p align="center"><span style="font-size: 11pt;">0,15<br>
         1,50<br>
         1,15</span></p></td>
     </tr>
   <tr>
-    <td width="633" valign="top"><p><span style="font-size: 11pt;">5.  Электропитание:<br>
-      - род тока<br>
-      -    напряжение, B</span></p></td>
+    <td width="633" valign="top"><p><span style="font-size: 11pt;">5.В  Р­Р»РµРєС‚СЂРѕРїРёС‚Р°РЅРёРµ:<br>
+      - СЂРѕРґ С‚РѕРєР°<br>
+      -    РЅР°РїСЂСЏР¶РµРЅРёРµ, B</span></p></td>
     <td width="165"><p>&nbsp;</p>
-      <p align="center"><span style="font-size: 11pt;">постоянный<br>
-        24 ± 10 %</span></p></td>
+      <p align="center"><span style="font-size: 11pt;">РїРѕСЃС‚РѕСЏРЅРЅС‹Р№<br>
+        24 В± 10 %</span></p></td>
     </tr>
   <tr>
-    <td width="633" valign="top"><p><span style="font-size: 11pt;">6.  Холодильный агент</span></p></td>
+    <td width="633" valign="top"><p><span style="font-size: 11pt;">6.В  РҐРѕР»РѕРґРёР»СЊРЅС‹Р№ Р°РіРµРЅС‚</span></p></td>
     <td width="165"><p align="center"><span style="font-size: 11pt;">R134a</span></p></td>
     </tr>
   <tr>
-    <td width="633" valign="top"><p><span style="font-size: 11pt;">7.  Масса кондиционера в заправленном состоянии, кг, не более</span></p></td>
+    <td width="633" valign="top"><p><span style="font-size: 11pt;">7.В  РњР°СЃСЃР° РєРѕРЅРґРёС†РёРѕРЅРµСЂР° РІ Р·Р°РїСЂР°РІР»РµРЅРЅРѕРј СЃРѕСЃС‚РѕСЏРЅРёРё, РєРі, РЅРµ Р±РѕР»РµРµ</span></p></td>
     <td width="165"><p align="center"><span style="font-size: 11pt;">60</span></p></td>
     </tr>
   <tr>
-    <td width="633" valign="top"><p><span style="font-size: 11pt;">8.    Габаритные размеры, мм, Д х Ш х В</span></p></td>
-    <td width="165"><p><span style="font-size: 11pt;">1390х655х342</span></p></td>
+    <td width="633" valign="top"><p><span style="font-size: 11pt;">8.    Р“Р°Р±Р°СЂРёС‚РЅС‹Рµ СЂР°Р·РјРµСЂС‹, РјРј, Р” С… РЁ С… Р’</span></p></td>
+    <td width="165"><p><span style="font-size: 11pt;">1390С…655С…342</span></p></td>
     </tr>
 </table>
 
 <br>
-&nbsp;&nbsp;&nbsp; В
-качестве холодильного агента парокомпрессионной холодильной машины
-используется озонобезопасный хладон R134а.<br>
+&nbsp;&nbsp;&nbsp; Р’
+РєР°С‡РµСЃС‚РІРµ С…РѕР»РѕРґРёР»СЊРЅРѕРіРѕ Р°РіРµРЅС‚Р° РїР°СЂРѕРєРѕРјРїСЂРµСЃСЃРёРѕРЅРЅРѕР№ С…РѕР»РѕРґРёР»СЊРЅРѕР№ РјР°С€РёРЅС‹
+РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РѕР·РѕРЅРѕР±РµР·РѕРїР°СЃРЅС‹Р№ С…Р»Р°РґРѕРЅ R134Р°.<br>
 <br>
-&nbsp;&nbsp;&nbsp; Управление кондиционером осуществляется
-в ручном
-режиме при помощи
-пульта управления расположенного на потолке кабины. В пульт управления
-входит переключатель режимов работы и
-регулятор температуры. <br>
+&nbsp;&nbsp;&nbsp; РЈРїСЂР°РІР»РµРЅРёРµ РєРѕРЅРґРёС†РёРѕРЅРµСЂРѕРј РѕСЃСѓС‰РµСЃС‚РІР»СЏРµС‚СЃСЏ
+РІ СЂСѓС‡РЅРѕРј
+СЂРµР¶РёРјРµ РїСЂРё РїРѕРјРѕС‰Рё
+РїСѓР»СЊС‚Р° СѓРїСЂР°РІР»РµРЅРёСЏ СЂР°СЃРїРѕР»РѕР¶РµРЅРЅРѕРіРѕ РЅР° РїРѕС‚РѕР»РєРµ РєР°Р±РёРЅС‹. Р’ РїСѓР»СЊС‚ СѓРїСЂР°РІР»РµРЅРёСЏ
+РІС…РѕРґРёС‚ РїРµСЂРµРєР»СЋС‡Р°С‚РµР»СЊ СЂРµР¶РёРјРѕРІ СЂР°Р±РѕС‚С‹ Рё
+СЂРµРіСѓР»СЏС‚РѕСЂ С‚РµРјРїРµСЂР°С‚СѓСЂС‹. <br>
 <br>
-&nbsp;&nbsp;&nbsp; Кондиционер располагается на крыше
-кабины водителя
-трамвая.<br>
+&nbsp;&nbsp;&nbsp; РљРѕРЅРґРёС†РёРѕРЅРµСЂ СЂР°СЃРїРѕР»Р°РіР°РµС‚СЃСЏ РЅР° РєСЂС‹С€Рµ
+РєР°Р±РёРЅС‹ РІРѕРґРёС‚РµР»СЏ
+С‚СЂР°РјРІР°СЏ.<br>
 </div>
 <br>
 </div>

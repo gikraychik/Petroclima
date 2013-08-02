@@ -5,10 +5,10 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>ЗАО "Петроклима": транспортные кондиционеры, системы вентиляции и холодильное оборудование</title>
+  <title>Р—РђРћ "РџРµС‚СЂРѕРєР»РёРјР°": С‚СЂР°РЅСЃРїРѕСЂС‚РЅС‹Рµ РєРѕРЅРґРёС†РёРѕРЅРµСЂС‹, СЃРёСЃС‚РµРјС‹ РІРµРЅС‚РёР»СЏС†РёРё Рё С…РѕР»РѕРґРёР»СЊРЅРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ</title>
     <style>
    p {
-    text-indent: 20px; /* Отступ первой строки в пикселах */
+    text-indent: 20px; /* РћС‚СЃС‚СѓРї РїРµСЂРІРѕР№ СЃС‚СЂРѕРєРё РІ РїРёРєСЃРµР»Р°С… */
    }
   </style>
   <meta content="text/html; charset=windows-1251"
@@ -18,7 +18,7 @@ $site = 0;
  <link rel="shortcut icon" href="/images/icon.ico" />
   <meta content="WordPress 3.0" name="generator">
   <meta name="robots" content="index, follow">
-  <meta name="keywords" content="ТРАНСПОРТНЫЕ КОНДИЦИОНЕРЫ, КОНДИЦИОНЕРЫ СПЕЦИАЛЬНОГО НАЗНАЧЕНИЯ, ЖЕЛЕЗНОДОРОЖНЫЕ КОНДИЦИОНЕРЫ, ПРОЕКТИРОВАНИЕ СИСТЕМ КОНДИЦИОНИРОВАНИЯ">
+  <meta name="keywords" content="РўР РђРќРЎРџРћР РўРќР«Р• РљРћРќР”РР¦РРћРќР•Р Р«, РљРћРќР”РР¦РРћРќР•Р Р« РЎРџР•Р¦РРђР›Р¬РќРћР“Рћ РќРђР—РќРђР§Р•РќРРЇ, Р–Р•Р›Р•Р—РќРћР”РћР РћР–РќР«Р• РљРћРќР”РР¦РРћРќР•Р Р«, РџР РћР•РљРўРР РћР’РђРќРР• РЎРРЎРўР•Рњ РљРћРќР”РР¦РРћРќРР РћР’РђРќРРЇ">
 <script language="javascript">
 <!--
 function Execute()
@@ -29,7 +29,7 @@ function Execute()
 }
 function Wrap()
 {
-	var s = "<h1>Новости</h1>";
+	var s = "<h1>РќРѕРІРѕСЃС‚Рё</h1>";
 	s+= d1.outerHTML + i1.outerHTML + d2.outerHTML + i2.outerHTML;
 	s+= d3.outerHTML + i3.outerHTML;
 	s+= lnk.outerHTML + itm.outerHTML;
@@ -61,23 +61,23 @@ flock($fl, 2);
 fwrite($fl, "\n"); 
 for ($i=0; $i<$count; $i+=2){
 	$k=$i+1;
-	fwrite($fl, $news[$i]);   //Добавляет новости к файлу News.txt
+	fwrite($fl, $news[$i]);   //Р”РѕР±Р°РІР»СЏРµС‚ РЅРѕРІРѕСЃС‚Рё Рє С„Р°Р№Р»Сѓ News.txt
 	fwrite($fl, $news[$k]);
 }
 flock($fl, 3);
 fclose($fl);
-$str = "Добрый день!\n\n";
+$str = "Р”РѕР±СЂС‹Р№ РґРµРЅСЊ!\n\n";
 for ($i=0; $i<$count; $i+=2){
-	$k=$i+1;                           //Формирование письма
+	$k=$i+1;                           //Р¤РѕСЂРјРёСЂРѕРІР°РЅРёРµ РїРёСЃСЊРјР°
 	$str.= $news[$i].$news[$k]."\n";
 }
-$str.= "\nСлужба поддержки ЗАО \"Петроклима\".\n";
+$str.= "\nРЎР»СѓР¶Р±Р° РїРѕРґРґРµСЂР¶РєРё Р—РђРћ \"РџРµС‚СЂРѕРєР»РёРјР°\".\n";
 $str.= "http://www.petroclima.ru/";
-$from = "Суппорт";
+$from = "РЎСѓРїРїРѕСЂС‚";
 $from= "=?windows-1251?B?".base64_encode($from)."?=";
 $header = "Content-Type: text/plain; charset=windows-1251\r\n";
 $header.= "From: ".$from."<info@petroclima.ru>";
-$topic="Новости ЗАО \"Петроклима\"";
+$topic="РќРѕРІРѕСЃС‚Рё Р—РђРћ \"РџРµС‚СЂРѕРєР»РёРјР°\"";
 $topic = "=?windows-1251?B?".base64_encode($topic)."?=";
 flock($f, 2);
 while (! feof($f)) {
@@ -108,18 +108,18 @@ fclose($f);
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="/contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="/contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 <div class="content">
 <table width="840px" border="0px">
 <tr><td width="190px">
 <div class="left" id="lt">
-<h1>Новости</h1>
+<h1>РќРѕРІРѕСЃС‚Рё</h1>
 <?php
 @$file = fopen ("Base/News.txt", "r") or die("Base not found");
 if ($file) {
@@ -139,7 +139,7 @@ if ($file) {
 else {echo "File not found";}
 if ($count>5) {
 	echo "<div class=\"newsitem\" id=\"lnk\">";
-	echo "<a style=\"cursor: hand;\"><h1><u><a href=\"news.php\">Архив новостей</a></u></h1></a></div>";
+	echo "<a style=\"cursor: hand;\"><h1><u><a href=\"news.php\">РђСЂС…РёРІ РЅРѕРІРѕСЃС‚РµР№</a></u></h1></a></div>";
 }
 ?>
 <div class="newsitem" id="itm">
@@ -150,8 +150,8 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
-"' alt='' title='LiveInternet: показано количество просмотров и"+
-" посетителей' "+
+"' alt='' title='LiveInternet: РїРѕРєР°Р·Р°РЅРѕ РєРѕР»РёС‡РµСЃС‚РІРѕ РїСЂРѕСЃРјРѕС‚СЂРѕРІ Рё"+
+" РїРѕСЃРµС‚РёС‚РµР»РµР№' "+
 "border='0' width='88' height='120'><\/a>")
 //--></script><!--/LiveInternet-->
 </div>
@@ -159,22 +159,22 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 </td>
 <td>
 <div class="normtext">
-<h1 align="center">Добро пожаловать!</h1>
-<p>Закрытое акционерное общество "Петроклима"
-является разработчиком, проектировщиком и производителем климатической
-техники специального назначения. Наши изделия успешно эксплуатируются
-на железнодорожном и городском транспорте, <a href="http://npptranstech.com" style="cursor: text; color: #000000; text-decoration: none;">в</a> авиационной и
-аэрокосмической областях, в горнодобывающей промышленности.</p>
+<h1 align="center">Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ!</h1>
+<p>Р—Р°РєСЂС‹С‚РѕРµ Р°РєС†РёРѕРЅРµСЂРЅРѕРµ РѕР±С‰РµСЃС‚РІРѕ "РџРµС‚СЂРѕРєР»РёРјР°"
+СЏРІР»СЏРµС‚СЃСЏ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРј, РїСЂРѕРµРєС‚РёСЂРѕРІС‰РёРєРѕРј Рё РїСЂРѕРёР·РІРѕРґРёС‚РµР»РµРј РєР»РёРјР°С‚РёС‡РµСЃРєРѕР№
+С‚РµС…РЅРёРєРё СЃРїРµС†РёР°Р»СЊРЅРѕРіРѕ РЅР°Р·РЅР°С‡РµРЅРёСЏ. РќР°С€Рё РёР·РґРµР»РёСЏ СѓСЃРїРµС€РЅРѕ СЌРєСЃРїР»СѓР°С‚РёСЂСѓСЋС‚СЃСЏ
+РЅР° Р¶РµР»РµР·РЅРѕРґРѕСЂРѕР¶РЅРѕРј Рё РіРѕСЂРѕРґСЃРєРѕРј С‚СЂР°РЅСЃРїРѕСЂС‚Рµ, <a href="http://npptranstech.com" style="cursor: text; color: #000000; text-decoration: none;">РІ</a> Р°РІРёР°С†РёРѕРЅРЅРѕР№ Рё
+Р°СЌСЂРѕРєРѕСЃРјРёС‡РµСЃРєРѕР№ РѕР±Р»Р°СЃС‚СЏС…, РІ РіРѕСЂРЅРѕРґРѕР±С‹РІР°СЋС‰РµР№ РїСЂРѕРјС‹С€Р»РµРЅРЅРѕСЃС‚Рё.</p>
 <p></p><br>
-<p>Если Вы хотите быть в  курсе новостей, быть в базе наших клиентов, быть первым среди наших  поставщиков, то <a href="register.php">зарегистрируйтесь</a>. Тем самым вы подписываетесь на оповещения по  всем свежим новостям ЗАО &laquo;Петроклима&raquo;.</p>
+<p>Р•СЃР»Рё Р’С‹ С…РѕС‚РёС‚Рµ Р±С‹С‚СЊ РІ  РєСѓСЂСЃРµ РЅРѕРІРѕСЃС‚РµР№, Р±С‹С‚СЊ РІ Р±Р°Р·Рµ РЅР°С€РёС… РєР»РёРµРЅС‚РѕРІ, Р±С‹С‚СЊ РїРµСЂРІС‹Рј СЃСЂРµРґРё РЅР°С€РёС…  РїРѕСЃС‚Р°РІС‰РёРєРѕРІ, С‚Рѕ <a href="register.php">Р·Р°СЂРµРіРёСЃС‚СЂРёСЂСѓР№С‚РµСЃСЊ</a>. РўРµРј СЃР°РјС‹Рј РІС‹ РїРѕРґРїРёСЃС‹РІР°РµС‚РµСЃСЊ РЅР° РѕРїРѕРІРµС‰РµРЅРёСЏ РїРѕ  РІСЃРµРј СЃРІРµР¶РёРј РЅРѕРІРѕСЃС‚СЏРј Р—РђРћ &laquo;РџРµС‚СЂРѕРєР»РёРјР°&raquo;.</p>
 </td>
 <td>
 <div class="foto" id="ft">
-<h1 align="center"><a href="/galery.php">Документация</a></h1>
+<h1 align="center"><a href="/galery.php">Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ</a></h1>
 <img style="border: 0px solid ; width: 190px;" alt="No image" src="/Galery/Low/Certificates/img001.JPG">
 <br>
 <div class="newsitem">
-Copyright &copy; ЗАО&ldquo;Петроклима&rdquo;, <br>Санкт-Петербург, 2010<br>
+Copyright &copy; Р—РђРћ&ldquo;РџРµС‚СЂРѕРєР»РёРјР°&rdquo;, <br>РЎР°РЅРєС‚-РџРµС‚РµСЂР±СѓСЂРі, 2010<br>
 e-mail: <a href="mailto:info@petroclima.ru">info@petroclima.ru</a>
 </div>
 </div>

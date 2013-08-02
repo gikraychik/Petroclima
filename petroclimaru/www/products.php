@@ -5,7 +5,7 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>Продукция</title>
+  <title>РџСЂРѕРґСѓРєС†РёСЏ</title>
 <script language="JavaScript" src="Base/JavaScripts/script.js">
 </script>
   <meta http-equiv="Content-Type"
@@ -35,16 +35,16 @@ $site = 0;
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 <div class="content">
 
-<h1 style="margin-left: 0px; width: 810px; text-align: center;"><big>Продукция</big></h1>
+<h1 style="margin-left: 0px; width: 810px; text-align: center;"><big>РџСЂРѕРґСѓРєС†РёСЏ</big></h1>
 <div style="padding-left: 35px;">
 <font size="+0">
 <ol>

@@ -1,15 +1,15 @@
 <?php
 function get_name($site)
 {
-	if ($site == 0) { return "Закрытое акционерное <br>общество \"Петроклима\""; }
-	else if ($site == 1) { return "ООО \"НПП \"Транстехника\""; }
+	if ($site == 0) { return "Р—Р°РєСЂС‹С‚РѕРµ Р°РєС†РёРѕРЅРµСЂРЅРѕРµ <br>РѕР±С‰РµСЃС‚РІРѕ \"РџРµС‚СЂРѕРєР»РёРјР°\""; }
+	else if ($site == 1) { return "РћРћРћ \"РќРџРџ \"РўСЂР°РЅСЃС‚РµС…РЅРёРєР°\""; }
 	else { return ""; }
 }
 
 function get_phone($site)
 {
-	if ($site == 0) { return "Тел. +7 (812) 331-59-18"; }
-	else if ($site == 1) { return "Тел. +7 (812) 444-61-16"; }
+	if ($site == 0) { return "РўРµР». +7 (812) 331-59-18"; }
+	else if ($site == 1) { return "РўРµР». +7 (812) 444-61-16"; }
 	else { return ""; }
 }
 ?>

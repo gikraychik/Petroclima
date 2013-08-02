@@ -5,7 +5,7 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>Архив новостей</title>
+  <title>РђСЂС…РёРІ РЅРѕРІРѕСЃС‚РµР№</title>
   <meta http-equiv="Content-Type"
  content="text/html; charset=windows-1251">
   <link
@@ -32,15 +32,15 @@ $site = 0;
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 <div class="content">
-<h1 style="margin-left:0px; width: 810px; text-align: center;">Архив новостей</h1>
+<h1 style="margin-left:0px; width: 810px; text-align: center;">РђСЂС…РёРІ РЅРѕРІРѕСЃС‚РµР№</h1>
 <div class="normtext">
 <?php
 @$file = fopen ("Base/News.txt", "r") or die("Base not found");

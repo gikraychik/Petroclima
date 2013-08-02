@@ -5,7 +5,7 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>УК ЖТ-3,0.03</title>
+  <title>РЈРљ Р–Рў-3,0.03</title>
 <script language="JavaScript" src="Base/JavaScripts/script.js">
 </script>
   <meta http-equiv="Content-Type"
@@ -34,64 +34,64 @@ $site = 0;
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 <div class="content">
-<p align="center"><strong>КОНДИЦИОНЕР УК ЖТ-3,0.03 ДЛЯ ТЕПЛОВОЗОВ СЕРИИ ЧМЭ3</strong></p>
+<p align="center"><strong>РљРћРќР”РР¦РРћРќР•Р  РЈРљ Р–Рў-3,0.03 Р”Р›РЇ РўР•РџР›РћР’РћР—РћР’ РЎР•Р РР Р§РњР­3</strong></p>
 <div class="normtext">
   <!-------------------------------------------------------------------->
-  <br>&nbsp;&nbsp;&nbsp;Кондиционер  предназначен для установки в кабину машиниста тепловоза серии ЧМЭ3.
-  <br><br>&nbsp;&nbsp;&nbsp;Потребительские параметры УК ЖТ-3,0.03:
+  <br>&nbsp;&nbsp;&nbsp;РљРѕРЅРґРёС†РёРѕРЅРµСЂ  РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ СѓСЃС‚Р°РЅРѕРІРєРё РІ РєР°Р±РёРЅСѓ РјР°С€РёРЅРёСЃС‚Р° С‚РµРїР»РѕРІРѕР·Р° СЃРµСЂРёРё Р§РњР­3.
+  <br><br>&nbsp;&nbsp;&nbsp;РџРѕС‚СЂРµР±РёС‚РµР»СЊСЃРєРёРµ РїР°СЂР°РјРµС‚СЂС‹ РЈРљ Р–Рў-3,0.03:
   <p><br>
   </p>
 <table border="1" cellspacing="0" cellpadding="0" width="780">
   <tr>
-    <td width="714" valign="top"><p align="center"><strong>Наименование параметра</strong></p></td>
-    <td width="172" valign="top"><p align="center"><strong>Значение</strong></p></td>
+    <td width="714" valign="top"><p align="center"><strong>РќР°РёРјРµРЅРѕРІР°РЅРёРµ РїР°СЂР°РјРµС‚СЂР°</strong></p></td>
+    <td width="172" valign="top"><p align="center"><strong>Р—РЅР°С‡РµРЅРёРµ</strong></p></td>
   </tr>
   <tr>
-    <td width="714" valign="top"><p>1.    Холодопроизводительность, кВт</p></td>
-    <td width="172" valign="top"><p align="center">3,0    ± 0,2</p></td>
+    <td width="714" valign="top"><p>1.    РҐРѕР»РѕРґРѕРїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚СЊ, РєР’С‚</p></td>
+    <td width="172" valign="top"><p align="center">3,0    В± 0,2</p></td>
   </tr>
   <tr>
-    <td width="714" valign="top">2.    Общее количество приточного (подаваемого в кабину) воздуха, м3/ч,<br>
-      в том числе наружного, не менее</td>
+    <td width="714" valign="top">2.    РћР±С‰РµРµ РєРѕР»РёС‡РµСЃС‚РІРѕ РїСЂРёС‚РѕС‡РЅРѕРіРѕ (РїРѕРґР°РІР°РµРјРѕРіРѕ РІ РєР°Р±РёРЅСѓ) РІРѕР·РґСѓС…Р°, Рј3/С‡,<br>
+      РІ С‚РѕРј С‡РёСЃР»Рµ РЅР°СЂСѓР¶РЅРѕРіРѕ, РЅРµ РјРµРЅРµРµ</td>
     <td width="172" valign="top" align="center">
-      500 ± 50<br>
+      500 В± 50<br>
         60</td>
   </tr>
   <tr>
-    <td width="714" valign="top"><p>3.    Максимальная потребляемая мощность, кВт, не более, в режиме:<br>
-      -     «Вентиляция»                                                      <br>
-      -     «Охлаждение»</p></td>
+    <td width="714" valign="top"><p>3.    РњР°РєСЃРёРјР°Р»СЊРЅР°СЏ РїРѕС‚СЂРµР±Р»СЏРµРјР°СЏ РјРѕС‰РЅРѕСЃС‚СЊ, РєР’С‚, РЅРµ Р±РѕР»РµРµ, РІ СЂРµР¶РёРјРµ:<br>
+      -В     В«Р’РµРЅС‚РёР»СЏС†РёСЏВ»В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В В  <br>
+      -В     В«РћС…Р»Р°Р¶РґРµРЅРёРµВ»</p></td>
     <td width="172" valign="top"><p>&nbsp;</p>
       <p align="center">0,12<br>
         1,42</p></td>
   </tr>
   <tr>
-    <td width="714" valign="top"><p>4.    Масса кондиционера в заправленном состоянии, кг, не более</p></td>
+    <td width="714" valign="top"><p>4.    РњР°СЃСЃР° РєРѕРЅРґРёС†РёРѕРЅРµСЂР° РІ Р·Р°РїСЂР°РІР»РµРЅРЅРѕРј СЃРѕСЃС‚РѕСЏРЅРёРё, РєРі, РЅРµ Р±РѕР»РµРµ</p></td>
     <td width="172" valign="top"><p align="center">60</p></td>
   </tr>
   <tr>
-    <td width="714" valign="top"><p>5.    Электропитание:<br>
-      - род тока<br>
-      - напряжение, В </p></td>
+    <td width="714" valign="top"><p>5.    Р­Р»РµРєС‚СЂРѕРїРёС‚Р°РЅРёРµ:<br>
+      - СЂРѕРґ С‚РѕРєР°<br>
+      - РЅР°РїСЂСЏР¶РµРЅРёРµ, Р’ </p></td>
     <td width="172" valign="top"><p>&nbsp;</p>
-      <p align="center">постоянный<br>
+      <p align="center">РїРѕСЃС‚РѕСЏРЅРЅС‹Р№<br>
         110</p></td>
   </tr>
   <tr>
-    <td width="714" valign="top"><p>6.    Габаритные размеры, Д х Ш х В, мм</p></td>
-    <td width="172" valign="top"><p align="center">1000    х 552 х 342</p></td>
+    <td width="714" valign="top"><p>6.    Р“Р°Р±Р°СЂРёС‚РЅС‹Рµ СЂР°Р·РјРµСЂС‹, Р” С… РЁ С… Р’, РјРј</p></td>
+    <td width="172" valign="top"><p align="center">1000    С… 552 С… 342</p></td>
   </tr>
   <tr>
-    <td width="714" valign="top"><p>7.    Холодильный агент</p></td>
-    <td width="172" valign="top"><p align="center">R134а</p></td>
+    <td width="714" valign="top"><p>7.    РҐРѕР»РѕРґРёР»СЊРЅС‹Р№ Р°РіРµРЅС‚</p></td>
+    <td width="172" valign="top"><p align="center">R134Р°</p></td>
   </tr>
 </table>
 <!-------------------------------------------------------------------->

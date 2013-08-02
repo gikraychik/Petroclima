@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>Регистрация</title>
+<title>Р РµРіРёСЃС‚СЂР°С†РёСЏ</title>
 <script language="javascript" src="Base/JavaScripts/check.js">
 </script>
 <script language = "javascript">
@@ -29,10 +29,10 @@ function GetBack(thing)
 <table border="0" cellpadding="0" cellspacing="0" width="840">
   <tbody>
     <tr>
-      <td align="right"><b>Закрытое
-акционерное<br>
-общество "Петроклима"<br>
-Тел. +7 (812)331-59-18</b></td>
+      <td align="right"><b>Р—Р°РєСЂС‹С‚РѕРµ
+Р°РєС†РёРѕРЅРµСЂРЅРѕРµ<br>
+РѕР±С‰РµСЃС‚РІРѕ "РџРµС‚СЂРѕРєР»РёРјР°"<br>
+РўРµР». +7 (812)331-59-18</b></td>
       <td width="140"><a href="/"><img src="/images/logo.jpg" border="0"
  height="165" width="140"></a></td>
     </tr>
@@ -40,11 +40,11 @@ function GetBack(thing)
 </table>
 </div>
 <div class="menu">
-<div><a href="/">главная</a>
-| <a href="/okompanii.php">о
-компании</a>
-| <a href="/products.php">продукция</a>
-| <a href="contacts.php">контакты</a></div>
+<div><a href="/">РіР»Р°РІРЅР°СЏ</a>
+| <a href="/okompanii.php">Рѕ
+РєРѕРјРїР°РЅРёРё</a>
+| <a href="/products.php">РїСЂРѕРґСѓРєС†РёСЏ</a>
+| <a href="contacts.php">РєРѕРЅС‚Р°РєС‚С‹</a></div>
 </div>
 </div>
 
@@ -53,11 +53,11 @@ function GetBack(thing)
 <form name="myform" action="Action.php", mathod="post" target="response" onsubmit="return Check(myform);">
 <table border="0" cellpadding="0" cellspacing="20" width="800px">
 <tr>
-	<td width="230">Наименование компании:</td>
+	<td width="230">РќР°РёРјРµРЅРѕРІР°РЅРёРµ РєРѕРјРїР°РЅРёРё:</td>
     <td width="400"><input onchange="GetBack(myform.comp);" name="comp" id="comp" type="text" width="507px"></td>
 </tr>
 <tr>
-	<td>Профиль деятельности:</td>
+	<td>РџСЂРѕС„РёР»СЊ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚Рё:</td>
     <td><input onchange="GetBack(myform.doing);"name="doing" id="doing" type="text" width="507px"></td>
 </tr>
 <tr>
@@ -65,11 +65,11 @@ function GetBack(thing)
     <td><input onchange="GetBack(myform.email);" id="email" name="email" type="text" width="507px"></td>
 </tr>
 <tr>
-	<td><input type="submit" value="Отправить"></td>
+	<td><input type="submit" value="РћС‚РїСЂР°РІРёС‚СЊ"></td>
 </tr>
 </table>
 </form>
-Ответ сервера:<br>
+РћС‚РІРµС‚ СЃРµСЂРІРµСЂР°:<br>
 <iframe id="response" name="response" width="780" frameborder="1" border="2" scrolling="auto">
 </iframe>
 </div>
