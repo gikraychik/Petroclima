@@ -77,7 +77,7 @@ function FormRegPage($email, $first, $second)
 <html>
 <head>
   <title>ЗАО \"Петроклима\"</title>
-  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1251\">
+  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">
   <link href=\"../Css/style.css\"
  rel=\"stylesheet\" type=\"text/css\">
 <!-- /all in one seo pack -->
@@ -128,7 +128,7 @@ $str .= "</div>
 </body>
 </html>";
 $str.= "<?php \nunlink(basename(__FILE__));\n ?>";
-//$str = iconv($str, "UTF-8", "windows-1251");
+//$str = iconv($str, "UTF-8", "utf-8");
 return($str);
 }
 	

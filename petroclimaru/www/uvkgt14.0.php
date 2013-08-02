@@ -9,7 +9,7 @@ $site = 0;
 <script language="JavaScript" src="Base/JavaScripts/script.js">
 </script>
   <meta http-equiv="Content-Type"
- content="text/html; charset=windows-1251">
+ content="text/html; charset=utf-8">
   <link
  href="Base/Css/style.css"
  rel="stylesheet" type="text/css">

@@ -11,7 +11,7 @@ $site = 0;
 <html>
 <head>
   <title>Документация</title>
-  <meta content="text/html; charset=windows-1251" http-equiv="Content-Type">
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
   <link type="text/css" rel="stylesheet" href="Base/Css/style.css">
   <link rel="shortcut icon" href="/images/icon.ico" />
 </head>

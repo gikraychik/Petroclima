@@ -11,7 +11,7 @@ $site = 0;
     text-indent: 20px; /* Отступ первой строки в пикселах */
    }
   </style>
-  <meta content="text/html; charset=windows-1251"
+  <meta content="text/html; charset=utf-8"
  http-equiv="Content-Type">
   <link type="text/css" rel="stylesheet"
  href="Base/Css/style.css">
@@ -74,11 +74,11 @@ for ($i=0; $i<$count; $i+=2){
 $str.= "\nСлужба поддержки ЗАО \"Петроклима\".\n";
 $str.= "http://www.petroclima.ru/";
 $from = "Суппорт";
-$from= "=?windows-1251?B?".base64_encode($from)."?=";
-$header = "Content-Type: text/plain; charset=windows-1251\r\n";
+$from= "=?utf-8?B?".base64_encode($from)."?=";
+$header = "Content-Type: text/plain; charset=utf-8\r\n";
 $header.= "From: ".$from."<info@petroclima.ru>";
 $topic="Новости ЗАО \"Петроклима\"";
-$topic = "=?windows-1251?B?".base64_encode($topic)."?=";
+$topic = "=?utf-8?B?".base64_encode($topic)."?=";
 flock($f, 2);
 while (! feof($f)) {
 	$s = fgets($f, 1024); 

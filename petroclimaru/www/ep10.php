@@ -7,7 +7,7 @@ $site = 0;
 <head>
   <title>УК ЖТ - 2,5.01</title>
   <meta http-equiv="Content-Type"
- content="text/html; charset=windows-1251">
+ content="text/html; charset=utf-8">
   <link href="Base/Css/style.css" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="/images/icon.ico" />
 </head>

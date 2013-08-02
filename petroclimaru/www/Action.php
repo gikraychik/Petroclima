@@ -44,11 +44,11 @@
 			$str.= "Служба поддержки ЗАО \"Петроклима\"\n";
 			$str.= "http://www.petroclima.ru/";
 			$from = "Служба поддержки ЗАО \"Петроклима\"";
-			$from= "=?windows-1251?B?".base64_encode($from)."?=";
-			$header = "Content-Type: text/plain; charset=windows-1251\r\n";
+			$from= "=?utf-8?B?".base64_encode($from)."?=";
+			$header = "Content-Type: text/plain; charset=utf-8\r\n";
 			$header.= "From: ".$from."<info@petroclima.ru>";
 			$topic="Регистрация на сайте";
-			$topic = "=?windows-1251?B?".base64_encode($topic)."?=";
+			$topic = "=?utf-8?B?".base64_encode($topic)."?=";
 			mail($email, $topic, $str, $header);
 			IncNum("Base/LastName.txt");
 		}

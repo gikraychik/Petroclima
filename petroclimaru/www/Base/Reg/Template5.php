@@ -6,7 +6,7 @@ AddClient("../Mail.txt", "../DataBase.txt","S.Kamzolov@dorinrus.ru", "Dorin SpA"
 <html>
 <head>
   <title>ЗАО "Петроклима"</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link href="../Css/style.css"
  rel="stylesheet" type="text/css">
 <!-- /all in one seo pack -->
