@@ -98,7 +98,7 @@ $site = 0;
       <p>а) высота</p>
       <p>б) ширина</p>
       <p>в) длина</p></td>
-    <td><p align="center">мм</p></td>
+    <td><p align="center"><br>мм</p></td>
     <td><p align="center">280</p>
 <p align="center">910</p>
       <p align="center">1100</p></td>
@@ -110,10 +110,10 @@ $site = 0;
     <td><div align="center">R134а</div></td>
   </tr>
   <tr>
-  	<td><div align="center">9.</div></td>
-  	<td>Параметры электропитания</td>
-    <td><div align="center">В</div></td>
-    <td><div align="center">110 постоянного тока</div></td>
+  	<td><div align="center"><br>9.</div></td>
+  	<td><br>Параметры электропитания</td>
+    <td><div align="center"><br>В</div></td>
+    <td><div align="center">110<br>постоянного<br>тока</div></td>
    </tr>
 </table>
 <br>
