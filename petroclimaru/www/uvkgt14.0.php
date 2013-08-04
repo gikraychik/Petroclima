@@ -5,7 +5,7 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>УВ ЖТ-М-3,0.01</title>
+  <title>УВК ЖТ-14,0</title>
 <script language="JavaScript" src="Base/JavaScripts/script.js">
 </script>
   <meta http-equiv="Content-Type"

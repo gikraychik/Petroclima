@@ -5,7 +5,7 @@ $site = 0;
 ?>
 <html>
 <head>
-  <title>ЗАО "Петроклима":</title>
+  <title>СПМ-34</title>
 <script language="JavaScript" src="Base/JavaScripts/script.js">
 </script>
   <meta http-equiv="Content-Type"
