@@ -12,7 +12,7 @@ $site = 0;
 <head>
   <title>Документация</title>
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-  <link type="text/css" rel="stylesheet" href="Base/Css/style.css">
+  <link type="text/css" rel="stylesheet" href="Base/Css/style.css?0">
   <link rel="shortcut icon" href="/images/icon.ico" />
 </head>
 <body>

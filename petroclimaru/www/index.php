@@ -14,7 +14,7 @@ $site = 0;
   <meta content="text/html; charset=utf-8"
  http-equiv="Content-Type">
   <link type="text/css" rel="stylesheet"
- href="Base/Css/style.css">
+ href="Base/Css/style.css?0">
  <link rel="shortcut icon" href="/images/icon.ico" />
   <meta content="WordPress 3.0" name="generator">
   <meta name="robots" content="index, follow">

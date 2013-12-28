@@ -7,7 +7,7 @@
   <meta http-equiv="Content-Type"
  content="text/html; charset=utf-8">
   <link
- href="Base/Css/style.css"
+ href="Base/Css/style.css?0"
  rel="stylesheet" type="text/css">
 <!-- /all in one seo pack -->
 </head>

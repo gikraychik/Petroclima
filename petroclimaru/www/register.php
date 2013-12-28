@@ -15,7 +15,7 @@ function GetBack(thing)
 //-->
 </script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="Base/Css/style.css" rel="stylesheet" type="text/css">
+<link href="Base/Css/style.css?0" rel="stylesheet" type="text/css">
 </head>
 <body>
 <table width="100%" border="0">

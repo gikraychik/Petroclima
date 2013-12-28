@@ -15,7 +15,7 @@ function Test() { document.write("Hello World!");}
   <meta http-equiv="Content-Type"
  content="text/html; charset=utf-8">
   <link
- href="Base/Css/style.css"
+ href="Base/Css/style.css?0"
  rel="stylesheet" type="text/css">
 <!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[117,144] -->
 <!-- /all in one seo pack -->
